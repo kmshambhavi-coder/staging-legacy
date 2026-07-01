@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "entityIdentifier": "Blocklist001",
+        "entityType": "*",
+        "elementType": 0,
+        "scope": 2,
+        "environments": [
+            "*"
+        ]
+    },
+    {
+        "id": 2,
+        "entityIdentifier": "Blocklist002",
+        "entityType": "ADDRESS",
+        "elementType": 0,
+        "scope": 3,
+        "environments": [
+            "Default Environment",
+            "TERqzzdvlT",
+            "TEgaojLG8A",
+            "TE2L31pZDn",
+            "TEUZCvVmqF",
+            "TEKMs0YL4O"
+        ]
+    },
+    {
+        "id": 3,
+        "entityIdentifier": "Blocklist003",
+        "entityType": "APPLICATION",
+        "elementType": 0,
+        "scope": 2,
+        "environments": [
+            "Default Environment"
+        ]
+    }
+]
