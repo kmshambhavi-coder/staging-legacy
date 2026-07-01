@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "valueType": 2,
+        "value": "",
+        "slaPeriodType": 0,
+        "slaPeriod": 100.0,
+        "criticalPeriodType": 0,
+        "criticalPeriod": 10.0,
+        "environments": [
+            "Default Environment"
+        ],
+        "alertType": 0,
+        "values": [
+            ""
+        ]
+    },
+    {
+        "id": 2,
+        "valueType": 3,
+        "value": "[\"Assessment\",\"Triage\",\"Investigation\",\"Incident\",\"Improvement\",\"Research\"]",
+        "slaPeriodType": 1,
+        "slaPeriod": 10.0,
+        "criticalPeriodType": 0,
+        "criticalPeriod": 60.0,
+        "environments": [
+            "*"
+        ],
+        "alertType": null,
+        "values": [
+            "Assessment",
+            "Triage",
+            "Investigation",
+            "Incident",
+            "Improvement",
+            "Research"
+        ]
+    },
+    {
+        "id": 3,
+        "valueType": 4,
+        "value": "[\"Medium\"]",
+        "slaPeriodType": 2,
+        "slaPeriod": 3.0,
+        "criticalPeriodType": 1,
+        "criticalPeriod": 24.0,
+        "environments": [
+            "TEgaojLG8A"
+        ],
+        "alertType": null,
+        "values": [
+            "Medium"
+        ]
+    },
+    {
+        "id": 4,
+        "valueType": 5,
+        "value": "[\"High\"]",
+        "slaPeriodType": 0,
+        "slaPeriod": 10.0,
+        "criticalPeriodType": 0,
+        "criticalPeriod": 5.0,
+        "environments": [
+            "Default Environment",
+            "TERqzzdvlT",
+            "TEgaojLG8A",
+            "TE2L31pZDn",
+            "TEUZCvVmqF",
+            "TEKMs0YL4O"
+        ],
+        "alertType": null,
+        "values": [
+            "High"
+        ]
+    }
+]
