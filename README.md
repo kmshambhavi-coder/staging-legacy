@@ -12,6 +12,15 @@
 |TemplateEngine|Template Engine integration provides the ability to render templates using Jinja2. Jinja2 provide fast and flexible ways to create rich templates. These templates can be used in entity insights, emails, ticketing systems, or any action that can take in a text string.Jinja2 documentation can be found at https://jinja.palletsprojects.com/en/2.11.x/|
 
 
+## Playbooks
+|Name|Description|
+|----|-----------|
+|Crowdstrike Falcon Containment|This block performs containment on endpoints by targeting case-related IPs and hostnames to prevent further compromise. A boolean input controls manual or automatic execution. In automatic mode, the Upload IOCs and Isolate Endpoint flags determine which actions run. It returns true if successful, false on failure, or empty if no action is taken.|
+|New Block|An embedded workflow that can receive inputs and return an output.|
+|New Playbook|test|
+|imported manual  Playbook||
+
+
 ## Visual Families
 |Name|Description|
 |----|-----------|
