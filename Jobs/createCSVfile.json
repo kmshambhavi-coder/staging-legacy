@@ -1,6 +1,6 @@
 {
     "lastRunStatus": 1,
-    "lastRunTime": 1782992601159,
+    "lastRunTime": 1782992786352,
     "uniqueIdentifier": "9f183503-72df-4c02-9a4f-cbd128d4be95",
     "id": 0,
     "jobDefinitionId": 0,
@@ -15,7 +15,7 @@
     "parameters": [],
     "runIntervalInSeconds": 60,
     "creationTime": "2026-06-29T00:31:33.245Z",
-    "lastModificationTime": "2026-07-02T11:43:21.186Z",
+    "lastModificationTime": "2026-07-02T11:46:26.374Z",
     "isSystemJob": false,
     "jobDefinitionName": null,
     "agentIdentifier": null,
