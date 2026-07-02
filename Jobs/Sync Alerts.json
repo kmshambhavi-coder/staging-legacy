@@ -1,6 +1,6 @@
 {
-    "lastRunStatus": 0,
-    "lastRunTime": 1782986342777,
+    "lastRunStatus": 1,
+    "lastRunTime": 1782987939531,
     "uniqueIdentifier": "b8c77ad7-a598-43df-924c-bb4b0c8bfea5",
     "id": 0,
     "jobDefinitionId": 0,
@@ -57,11 +57,11 @@
         }
     ],
     "runIntervalInSeconds": 86400,
-    "creationTime": "2026-07-02T09:58:32.56Z",
-    "lastModificationTime": "2026-07-02T09:59:02.791Z",
+    "creationTime": "2026-07-02T10:25:11.69Z",
+    "lastModificationTime": "2026-07-02T10:25:39.551Z",
     "isSystemJob": false,
     "jobDefinitionName": "Sync Alerts",
-    "agentIdentifier": "",
+    "agentIdentifier": null,
     "advanced": false,
     "advancedConfig": {
         "timeZone": "Europe/London",

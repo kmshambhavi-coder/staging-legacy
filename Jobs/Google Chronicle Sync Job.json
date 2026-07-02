@@ -1,6 +1,6 @@
 {
     "lastRunStatus": 0,
-    "lastRunTime": 1782986772135,
+    "lastRunTime": 1782992602695,
     "uniqueIdentifier": "09bba61a-57cf-45a1-b5fe-86e4a25be2ee",
     "id": 0,
     "jobDefinitionId": 0,
@@ -58,7 +58,7 @@
     ],
     "runIntervalInSeconds": 60,
     "creationTime": "2026-06-29T00:02:31.593Z",
-    "lastModificationTime": "2026-07-02T10:06:12.147Z",
+    "lastModificationTime": "2026-07-02T11:43:22.711Z",
     "isSystemJob": false,
     "jobDefinitionName": "Google Chronicle Sync Job",
     "agentIdentifier": null,

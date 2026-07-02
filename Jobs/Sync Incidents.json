@@ -64,11 +64,11 @@
         }
     ],
     "runIntervalInSeconds": 3660,
-    "creationTime": "2026-07-02T10:01:41.705Z",
-    "lastModificationTime": "2026-07-02T10:01:41.705Z",
+    "creationTime": "2026-07-02T10:25:11.871Z",
+    "lastModificationTime": "2026-07-02T10:25:11.871Z",
     "isSystemJob": false,
     "jobDefinitionName": "Sync Incidents",
-    "agentIdentifier": "",
+    "agentIdentifier": null,
     "advanced": false,
     "advancedConfig": {
         "timeZone": "Europe/London",
