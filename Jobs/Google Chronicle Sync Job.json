@@ -1,6 +1,6 @@
 {
     "lastRunStatus": 0,
-    "lastRunTime": 1782992788018,
+    "lastRunTime": 1783056189788,
     "uniqueIdentifier": "09bba61a-57cf-45a1-b5fe-86e4a25be2ee",
     "id": 0,
     "jobDefinitionId": 0,
@@ -14,42 +14,42 @@
     "version": 1,
     "parameters": [
         {
-            "id": 1422,
+            "id": 2268,
             "isMandatory": true,
             "name": "Environment",
             "type": 2,
             "value": "Default Environment"
         },
         {
-            "id": 1423,
+            "id": 2269,
             "isMandatory": true,
             "name": "API Root",
             "type": 2,
             "value": "https://staging-chronicle.sandbox.googleapis.com/v1alpha/projects/spsstg-dm94l/locations/us/instances/168e2f57-53e2-494b-a4e8-4faa81522f39"
         },
         {
-            "id": 1424,
+            "id": 2270,
             "isMandatory": false,
             "name": "User's Service Account",
             "type": 3,
             "value": ""
         },
         {
-            "id": 1425,
+            "id": 2271,
             "isMandatory": false,
             "name": "Workload Identity Email",
             "type": 3,
             "value": ""
         },
         {
-            "id": 1426,
+            "id": 2272,
             "isMandatory": false,
             "name": "Max Hours Backwards",
             "type": 2,
             "value": "24"
         },
         {
-            "id": 1427,
+            "id": 2273,
             "isMandatory": false,
             "name": "Verify SSL",
             "type": 0,
@@ -58,11 +58,31 @@
     ],
     "runIntervalInSeconds": 60,
     "creationTime": "2026-06-29T00:02:31.593Z",
-    "lastModificationTime": "2026-07-02T11:46:28.037Z",
+    "lastModificationTime": "2026-07-03T05:24:04.903Z",
     "isSystemJob": false,
     "jobDefinitionName": "Google Chronicle Sync Job",
     "agentIdentifier": null,
-    "advanced": false,
-    "advancedConfig": null,
+    "advanced": true,
+    "advancedConfig": {
+        "timeZone": "Asia/Kolkata",
+        "scheduleType": "Once",
+        "oneTimeSchedule": {
+            "startDate": {
+                "year": 2026,
+                "month": 7,
+                "day": 4
+            },
+            "time": {
+                "hours": 5,
+                "minutes": 23,
+                "seconds": 0,
+                "nanos": 0
+            },
+            "interval": 0
+        },
+        "dailySchedule": null,
+        "weeklySchedule": null,
+        "monthlySchedule": null
+    },
     "displayName": "Google Chronicle Sync Job"
 }
