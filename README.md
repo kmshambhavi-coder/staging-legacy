@@ -32,6 +32,7 @@
 ## Visual Families
 |Name|Description|
 |----|-----------|
+|Copy of manual-custom family001|manual-custom family001|
 |manual-custom family001|manual-custom family001|
 
 
