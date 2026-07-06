@@ -6,7 +6,8 @@
         "Visual Family": {},
         "Playbook": {},
         "Connector": {
-            "Crowdstrike - Alerts Connector": "Readme addon Text for Connector"
+            "Crowdstrike - Alerts Connector": "Readme addon Text for Connector",
+            "Crowdstrike - Identity Protection Detections Connector": "Readme addon Text for Connector"
         },
         "Job": {},
         "Block": {}
