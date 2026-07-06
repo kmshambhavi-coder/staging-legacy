@@ -1,7 +1,15 @@
 {
     "system_version": "6.3.92.0",
     "readme_addons": {
-        "Integration": {},
+        "Integration": {
+            "AzureActiveDirectory": "Readme addon text ",
+            "CrowdStrikeFalcon": "Readme addon text ",
+            "EmailUtilities": "Readme addon text ",
+            "GoogleChronicle": "Readme addon text ",
+            "PaloAltoCortexXDR": "Readme addon text ",
+            "TemplateEngine": "Readme addon text ",
+            "CSV": "Readme addon text "
+        },
         "Mappings": {},
         "Visual Family": {
             "manual-custom family001": "Readme addon text test",
