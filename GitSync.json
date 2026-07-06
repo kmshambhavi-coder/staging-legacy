@@ -3,7 +3,9 @@
     "readme_addons": {
         "Integration": {},
         "Mappings": {},
-        "Visual Family": {},
+        "Visual Family": {
+            "manual-custom family001": "Readme addon text test"
+        },
         "Playbook": {},
         "Connector": {
             "Crowdstrike - Alerts Connector": "Readme addon Text for Connector",
