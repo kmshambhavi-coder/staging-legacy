@@ -13,7 +13,9 @@
             "RecordedFutureIntelligence": "Readme addon text ",
             "AbuseIPDB": "Readme addon text "
         },
-        "Mappings": {},
+        "Mappings": {
+            "GoogleChronicle": "Mappings Readme file"
+        },
         "Visual Family": {
             "manual-custom family001": "Readme addon text test",
             "Copy of manual-custom family001": "Readme addon text test"
