@@ -8,7 +8,10 @@
             "GoogleChronicle": "Readme addon text ",
             "PaloAltoCortexXDR": "Readme addon text ",
             "TemplateEngine": "Readme addon text ",
-            "CSV": "Readme addon text "
+            "CSV": "Readme addon text ",
+            "MISP": "Readme addon text ",
+            "RecordedFutureIntelligence": "Readme addon text ",
+            "AbuseIPDB": "Readme addon text "
         },
         "Mappings": {},
         "Visual Family": {
