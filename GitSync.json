@@ -21,14 +21,19 @@
             "Copy of manual-custom family001": "Readme addon text test"
         },
         "Playbook": {
-            "New Playbook": "Test Playbook readme addons"
+            "New Playbook": "Test Playbook readme addons",
+            "Censys - Entity Enrichment": "Test Playbook readme addons",
+            "imported manual  Playbook": "Test Playbook readme addons"
         },
         "Connector": {
             "Crowdstrike - Alerts Connector": "Readme addon Text for Connector",
             "Crowdstrike - Identity Protection Detections Connector": "Readme addon Text for Connector"
         },
         "Job": {},
-        "Block": {}
+        "Block": {
+            "Crowdstrike Falcon Containment": "Test Playbook readme addons",
+            "New Block": "Test Playbook readme addons"
+        }
     },
     "settings": {
         "update_root_readme": true
