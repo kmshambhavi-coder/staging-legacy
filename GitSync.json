@@ -20,7 +20,9 @@
             "manual-custom family001": "Readme addon text test",
             "Copy of manual-custom family001": "Readme addon text test"
         },
-        "Playbook": {},
+        "Playbook": {
+            "New Playbook": "Test Playbook readme addons"
+        },
         "Connector": {
             "Crowdstrike - Alerts Connector": "Readme addon Text for Connector",
             "Crowdstrike - Identity Protection Detections Connector": "Readme addon Text for Connector"
