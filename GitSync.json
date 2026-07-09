@@ -29,7 +29,10 @@
             "Crowdstrike - Alerts Connector": "Readme addon Text for Connector",
             "Crowdstrike - Identity Protection Detections Connector": "Readme addon Text for Connector"
         },
-        "Job": {},
+        "Job": {
+            "Sync Incidents": "Job testing readme Addons",
+            "Google Chronicle Alerts Creator Job": "Job testing readme Addons"
+        },
         "Block": {
             "Crowdstrike Falcon Containment": "Test Playbook readme addons",
             "New Block": "Test Playbook readme addons"
