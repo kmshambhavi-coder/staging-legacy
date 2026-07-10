@@ -1,0 +1,18 @@
+{
+    "system_version": "6.3.93.0",
+    "readme_addons": {
+        "Integration": {},
+        "Mappings": {},
+        "Visual Family": {},
+        "Playbook": {},
+        "Connector": {},
+        "Job": {
+            "projects/spsstg-dm94l/locations/us/instances/168e2f57-53e2-494b-a4e8-4faa81522f39/integrations/PaloAltoCortexXDR/jobs/172/jobInstances/40": "Job testing readme Addons",
+            "projects/spsstg-dm94l/locations/us/instances/168e2f57-53e2-494b-a4e8-4faa81522f39/integrations/GoogleChronicle/jobs/149/jobInstances/39": "Job testing readme Addons"
+        },
+        "Block": {}
+    },
+    "settings": {
+        "update_root_readme": true
+    }
+}
