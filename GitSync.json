@@ -1,7 +1,9 @@
 {
     "system_version": "6.3.93.0",
     "readme_addons": {
-        "Integration": {},
+        "Integration": {
+            "MISP": "Readme addon text "
+        },
         "Mappings": {},
         "Visual Family": {},
         "Playbook": {},
